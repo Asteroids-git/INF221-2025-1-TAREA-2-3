@@ -1,7 +1,7 @@
 # Documentación
 
 ## Fuerza Bruta
-
+   Autor: Cristóbal Aguilera
 ### Programa principal
 
 ### Scripts
